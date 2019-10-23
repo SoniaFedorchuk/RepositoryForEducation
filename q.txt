@@ -2,10 +2,10 @@
 using namespace std;
 int main ()
 {
-char favcol[100];
- cout<<"Enter your favourite color "<<endl;
- cin>>favcol;
- cout<<"Your favourite color is "<<favcol<<endl;
+char school[100];
+ cout<<"Enter your school "<<endl;
+ cin>>school;
+ cout<<"Your school is "<<school<<endl;
 system("pause");
 return 0;
 }
