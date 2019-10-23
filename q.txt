@@ -2,7 +2,10 @@
 using namespace std;
 int main ()
 {
- cout<<"Hello World!!!"<<endl;
+char school[100];
+ cout<<"Enter your school "<<endl;
+ cin>>school;
+ cout<<"Your school is "<<school<<endl;
 system("pause");
 return 0;
 }
