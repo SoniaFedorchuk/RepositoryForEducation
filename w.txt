@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+char school[20];
+ cout<<"Enter your school "<<endl;
+ cin>>school;
+ cout<<"Your school is "<<school<<endl;
+system("pause");
+return 0;
+}
